@@ -1,4 +1,4 @@
-# 🏦 credit-risk-scorecard
+# 🏦 Credit-risk-scorecard
 
 [![Python](https://img.shields.io/badge/Python-3.9-blue)](https://www.python.org/)
 [![pandas](https://img.shields.io/badge/pandas-2.1-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
