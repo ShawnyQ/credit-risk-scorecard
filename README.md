@@ -63,6 +63,12 @@ Swap in real repayment data and retrain for realistic scores.
 | **0.70**  | 0.99      | 0.997  | **Cost-focused** – minimise false positives, tolerate a ~0.3 % miss-rate |
 
 ---
+
+## Data Access
+
+PS: Please access data in this link here: 
+link: https://drive.google.com/file/d/1WeIIugqArR0fdVt7Wpcyj_3KmD4h8Jzb/view?usp=sharing
+
 ## 👨‍💻 Author
 
 **Shawn Waringu**  
